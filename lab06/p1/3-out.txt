@@ -1,0 +1,5 @@
+The number of words is: 74
+The number of sentences is: 3
+The longest sentence has a length of: 30
+The longest word has a length of: 13
+The longest words are: establishment 

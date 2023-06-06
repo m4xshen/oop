@@ -1,0 +1,5 @@
+The number of words is: 89
+The number of sentences is: 4
+The longest sentence has a length of: 31
+The longest word has a length of: 14
+The longest words are: identification 
